@@ -634,7 +634,7 @@
     "url": "sqlite.forwardemail.net",
     "icon": "https://sqlite.org/favicon.ico",
     "slug": "sqlite-forwardemail-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
